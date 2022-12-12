@@ -32,5 +32,5 @@ class Contacts:
 
     def read_from_file(self):
         with open(self.filename, 'rb') as fh:
-            self = pickle.load(fh)
-            return self
+            content = pickle.load(fh)
+            return content
