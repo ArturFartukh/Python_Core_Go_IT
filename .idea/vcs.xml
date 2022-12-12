@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python_Core_Go_IT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go_it-python_core_hw01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go_it-python_core_hw02" vcs="Git" />
