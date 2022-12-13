@@ -35,4 +35,3 @@ class Contacts:
     def __setstate__(self, value):
         self.__dict__ = value
         self.is_unpacking = True
-        
