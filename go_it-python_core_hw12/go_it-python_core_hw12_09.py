@@ -38,7 +38,7 @@ class Contacts:
 
     def __getstate__(self):
         attributes = self.__dict__.copy()
-        attributes["count_save"] = attributes["count_save"] + 1
+        attributes["count_save"] += 1
         return attributes
 
     def __setstate__(self, value):
